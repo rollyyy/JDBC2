@@ -62,18 +62,8 @@ public class Application2 {
 		}
 		
 		System.out.println("result : " + result);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+	
+	
 		
 		
 	}
